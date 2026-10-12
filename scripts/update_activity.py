@@ -133,10 +133,6 @@ def generate_activity_svg(cal_data: dict, output_svg_path: str):
       <stop offset="70%" stop-color="#4ade80" stop-opacity="0.06" />
       <stop offset="100%" stop-color="#4ade80" stop-opacity="0.0" />
     </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feComposite in="SourceGraphic"进2="blur" operator="over" />
-    </filter>
   </defs>
 
   <style>
