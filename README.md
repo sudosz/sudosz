@@ -1,22 +1,122 @@
-<h1 align="center">Hi 👋, I'm Sina Zarei</h1>
-<h3 align="center">Back-End & Golang Developer | Passionate about Linux, and creating impactful solutions with code and music.</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **LPIC, Docker**
+<img src="./profile-banner.png" alt="Sina Zarei — Backend Engineer" width="100%" />
 
-- 💬 Ask me about **golang**
+<br /><br />
 
-- 📫 How to reach me **sina.zarei.dev@gmail.com**
+# Sina Zarei
 
-- ⚡ Fun fact **Every man dies, not every man lives!**
+**Backend Engineer** &nbsp;·&nbsp; `Go` &nbsp;·&nbsp; `Automation Systems` &nbsp;·&nbsp; `Developer Tooling`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<a href="https://www.sudosz.world">
+  <img src="https://img.shields.io/badge/website-sudosz.world-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=f7f7f7" alt="Website" />
+</a>
+&nbsp;
+<a href="https://www.sudosz.world/SinaZarei.pdf">
+  <img src="https://img.shields.io/badge/resume-PDF-0a0a0a?style=for-the-badge&logo=adobeacrobatreader&logoColor=f7f7f7" alt="Resume PDF" />
+</a>
+&nbsp;
+<a href="https://t.me/sudosz">
+  <img src="https://img.shields.io/badge/telegram-@sudosz-0a0a0a?style=for-the-badge&logo=telegram&logoColor=f7f7f7" alt="Telegram" />
+</a>
+&nbsp;
+<a href="mailto:me@sudosz.world">
+  <img src="https://img.shields.io/badge/email-me@sudosz.world-0a0a0a?style=for-the-badge&logo=gmail&logoColor=f7f7f7" alt="Email" />
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudosz&show_icons=true&locale=en&layout=compact" alt="sudosz" /></p>
+<br /><br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudosz&" alt="sudosz" /></p>
+```
+"I design and build backend services, concurrent processing pipelines,
+ Telegram platforms, reusable Go libraries, and Linux-oriented systems."
+```
 
+</div>
+
+---
+
+### Capabilities
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><code>01 // GO BACKEND</code></h4>
+      <p>Concurrent worker pools, idiomatic REST services, layered service architecture, generics, and reusable libraries engineered for production predictability.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4><code>02 // AUTOMATION SYSTEMS</code></h4>
+      <p>High-throughput Telegram architectures, asynchronous task dispatching, background queues with Redis, and resilient data processing pipelines.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4><code>03 // LINUX & TOOLING</code></h4>
+      <p>Unix CLI utilities, containerization with Docker, process orchestration, CI/CD pipelines, and infrastructure observability.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Selected Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sudosz/tg-state-manager"><code>tg-state-manager</code></a></h4>
+      <p><strong>Reusable Go library for stateful Telegram workflows</strong></p>
+      <p>Generic state transitions, in-memory and Redis-backed storage backends, concurrency-safe handlers, and framework-agnostic integration.</p>
+      <p><code>Go</code> · <code>Generics</code> · <code>Redis</code> · <code>Concurrency</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/NamiraNet/namira-core"><code>namira-core</code></a></h4>
+      <p><strong>Asynchronous network configuration processing engine</strong></p>
+      <p>Parsing, validation, and scoring pipeline combining concurrent worker pools, Redis task dispatching, and CLI/API interfaces.</p>
+      <p><code>Go</code> · <code>Worker Pools</code> · <code>Redis</code> · <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sudosz/fruits-api"><code>fruits-api</code></a></h4>
+      <p><strong>Production-minded reference backend architecture</strong></p>
+      <p>Layered architecture with Gin and PostgreSQL, clean interface boundaries, database migrations, container hardening, Kubernetes manifests, and Helm charts.</p>
+      <p><code>Go</code> · <code>Gin</code> · <code>PostgreSQL</code> · <code>Kubernetes</code> · <code>Helm</code> · <code>CI/CD</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sudosz/neghab"><code>neghab</code></a></h4>
+      <p><strong>Linux networking & system observation utility</strong></p>
+      <p>Experimental systems tool for controlled traffic generation, <code>/proc/net/dev</code> metric extraction, process lifecycle management, and Linux automation.</p>
+      <p><code>Go</code> · <code>Linux</code> · <code>Networking</code> · <code>Systems Programming</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Toolbox
+
+```
+Core            Go · Python · Linux · Docker · Git · Redis
+Backend & APIs  Gin · Fiber · net/http · FastAPI · REST APIs · gRPC
+Data & Storage  PostgreSQL · MySQL · Redis · MongoDB · SQLite
+Infra & DevOps  Docker · GitHub Actions · CI/CD · Kubernetes · Helm · Linux / Bash
+```
+
+---
+
+### Currently
+
+- Developing a private web platform with a custom Go backend service and frontend interface.
+- Exploring systems programming, high-throughput network pipelines, and operational telemetry.
+- Maintaining open-source Go packages and modular developer tools.
+- Open to thoughtful backend engineering roles and infrastructure collaborations.
+
+<br />
+
+<div align="center">
+
+```
+sudosz.world  •  Sina Zarei  •  Mashhad, Iran (UTC+3:30)
+```
+
+</div>
