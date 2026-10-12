@@ -39,7 +39,7 @@
 
 ### Capabilities
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <h4><code>01 // GO BACKEND</code></h4>
@@ -60,7 +60,7 @@
 
 ### Selected Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sudosz/tg-state-manager"><code>tg-state-manager</code></a></h4>
@@ -95,16 +95,16 @@
 
 ### Activity & Stats
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/sudosz">
-        <img src="https://github-readme-stats.vercel.app/api?username=sudosz&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&bg_color=00000000&title_color=f4f4f5&text_color=a1a1aa&icon_color=4ade80" alt="Sina Zarei GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sudosz&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&bg_color=00000000&title_color=f4f4f5&text_color=a1a1aa&icon_color=4ade80&card_width=440" alt="Sina Zarei GitHub Stats" width="100%" />
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/sudosz">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosz&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=00000000&title_color=f4f4f5&text_color=a1a1aa" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosz&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=00000000&title_color=f4f4f5&text_color=a1a1aa&card_width=440" alt="Top Languages" width="100%" />
       </a>
     </td>
   </tr>
