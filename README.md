@@ -95,11 +95,20 @@
 
 ### Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudosz&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&bg_color=0a0a0a&title_color=f4f4f5&text_color=a1a1aa&icon_color=4ade80" alt="Sina Zarei GitHub Stats" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosz&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=0a0a0a&title_color=f4f4f5&text_color=a1a1aa" alt="Top Languages" height="165" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/sudosz">
+        <img src="https://github-readme-stats.vercel.app/api?username=sudosz&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&bg_color=00000000&title_color=f4f4f5&text_color=a1a1aa&icon_color=4ade80" alt="Sina Zarei GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/sudosz">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosz&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=00000000&title_color=f4f4f5&text_color=a1a1aa" alt="Top Languages" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./activity-graph.svg" alt="Sina Zarei GitHub Activity Graph" width="100%" />
